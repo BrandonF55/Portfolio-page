@@ -6,7 +6,7 @@
 .Hobbies{
  text-align: center;
  font-family: Arial, Helvetica, sans-serif;
- color: coral;
+ color: orangered;
  font-size: large;
 }
 
@@ -14,14 +14,14 @@
 .About-me{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: coral;
+  color: orangered;
   font-size: large;
 }
 
 .My-projects{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: coral;
+  color: orangered;
   background-size: auto;
   font-size: large;
   margin: 20px;
@@ -37,7 +37,7 @@ img{
 .BF{
 color: rgb(229, 92, 1);
 font-family: Arial, Helvetica, sans-serif;
-background-color: bisque;
+background-color: rgb(0, 0, 0);
 margin-left: 200px;
 border: 20px;
 padding: 20px;
