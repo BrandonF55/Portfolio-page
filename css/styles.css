@@ -1,0 +1,30 @@
+
+.programing-journy{
+  color: aqua;
+}
+
+.Hobbies{
+ text-align: center;
+}
+
+.About-me{
+  text-align: center;
+}
+
+.My-projects{
+  text-align: center;
+}
+
+.BF{
+color: brown;
+font-family: Arial, Helvetica, sans-serif;
+background-color: bisque;
+margin-left: 50px;
+border: 20px;
+padding: 20px;
+}
+
+body{
+ background-color: cornsilk;
+
+}
