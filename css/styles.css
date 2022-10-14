@@ -19,16 +19,22 @@
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color: coral;
+  background-size: auto;
+}
+
+img{
+  float: left;
+  margin-right: 20px;
 }
 
 .BF{
-color: brown;
+color: rgb(229, 92, 1);
 font-family: Arial, Helvetica, sans-serif;
 background-color: bisque;
-margin-left: 50px;
+margin-left: 200px;
 border: 20px;
 padding: 20px;
-margin-right: 50px;
+margin-right: 200px;
 box-sizing: border-box;
 }
 
