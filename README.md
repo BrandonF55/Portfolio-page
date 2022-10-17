@@ -28,4 +28,8 @@ _Its a profolio about myself. The website runs really well and all the llinks wo
 
 _The links on the website work great no issues._
 
+<<<<<<< HEAD
 Copyright (c) _10/14/22_ _Brandon Fenk_
+=======
+Copyright (c) _10/14/22_ _Brandon Fenk_
+>>>>>>> 467cbd95941ec080905d0d81ec1eec4554a57b7d
